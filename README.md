@@ -2,10 +2,8 @@
 # Installation
 
 ```
-git clone https://github.com/AnonHackerr/toolss.git
+git clone https://github.com/REI3OOT/Tools-for-Termux
 cd toolss
 chmod +x Tools.py
 python Tools.py
 ```
-# Screenshot
-<img src="https://i.imgur.com/OhhVPzU.png"/>
